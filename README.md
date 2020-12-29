@@ -1,4 +1,7 @@
-### Hi there 👋
+
+![](https://komarev.com/ghpvc/?username=NitinR99&color=brightgreen)
+
+![Nitin's github stats](https://github-readme-stats.vercel.app/api?username=NitinR99&show_icons=true&theme=dark)
 
 <!--
 **NitinR99/NitinR99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
